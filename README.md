@@ -20,6 +20,6 @@
 
 [twitter]: https://twitter.com/forntoh
 [linkedin]: https://linkedin.com/in/forntoh
-[gmail]: thomasforntoh@gmail.com
+[gmail]: mailto:thomasforntoh@gmail.com
 [upwork]: https://www.upwork.com/freelancers/~0116a79794d02704f5?viewMode=1
 [instagram]: https://www.instagram.com/forntoh
