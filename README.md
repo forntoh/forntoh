@@ -23,5 +23,3 @@
 [gmail]: mailto:thomasforntoh@gmail.com
 [upwork]: https://www.upwork.com/freelancers/~0116a79794d02704f5?viewMode=1
 [instagram]: https://www.instagram.com/forntoh
-
-//TODO: Add behance
