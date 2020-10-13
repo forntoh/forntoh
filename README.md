@@ -1,4 +1,4 @@
-## Hi there, I am Forntoh Thomas 👋
+![Header](header.png)
 
 [<img src="https://img.shields.io/badge/forntoh-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img src="https://img.shields.io/badge/forntoh-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
@@ -23,3 +23,5 @@
 [gmail]: mailto:thomasforntoh@gmail.com
 [upwork]: https://www.upwork.com/freelancers/~0116a79794d02704f5?viewMode=1
 [instagram]: https://www.instagram.com/forntoh
+
+//TODO: Add behance
