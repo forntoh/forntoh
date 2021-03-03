@@ -19,6 +19,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forntoh&layout=compact&hide_border=true&bg_color=ffffff)](https://github.com/forntoh/github-readme-stats)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 [twitter]: https://twitter.com/forntoh
