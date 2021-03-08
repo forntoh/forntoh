@@ -20,7 +20,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Other    36 hrs 10 mins  ███████████████████████▓░   94.78 % 
+Kotlin   1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+XML      24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Groovy   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Java     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 <!--END_SECTION:waka-->
 
