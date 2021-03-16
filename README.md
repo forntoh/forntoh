@@ -18,16 +18,6 @@
 [![Forntoh's github stats](https://github-readme-stats.vercel.app/api?username=forntoh&count_private=true&show_icons=true&hide_border=true&hide_title=true&bg_color=ffffff)](https://github.com/forntoh/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forntoh&layout=compact&hide_border=true&bg_color=ffffff)](https://github.com/forntoh/github-readme-stats)
 
-<!--START_SECTION:waka-->
-```text
-Other     49 hrs 2 mins   ███████████████████▓░░░░░   78.26 % 
-Kotlin    5 hrs 51 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Dart      4 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-Groovy    1 hr 7 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-Blender   41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-```
-<!--END_SECTION:waka-->
-
 [twitter]: https://twitter.com/forntoh
 [linkedin]: https://linkedin.com/in/forntoh
 [gmail]: mailto:thomasforntoh@gmail.com
