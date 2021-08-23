@@ -4,7 +4,6 @@
 [<img src="https://img.shields.io/badge/forntoh-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 [<img src="https://img.shields.io/badge/upwork-6fda44?&style=for-the-badge&logo=upwork&logoColor=white" />][upwork]
-[<img src="https://img.shields.io/badge/instagram-C13584?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
 ## About me
 
@@ -22,4 +21,3 @@
 [linkedin]: https://linkedin.com/in/forntoh
 [gmail]: mailto:thomasforntoh@gmail.com
 [upwork]: https://www.upwork.com/freelancers/~0116a79794d02704f5?viewMode=1
-[instagram]: https://www.instagram.com/forntoh
