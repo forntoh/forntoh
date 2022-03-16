@@ -16,12 +16,9 @@
 
 [![Forntoh's github stats](https://github-readme-stats.vercel.app/api?username=forntoh&count_private=true&show_icons=true&hide_border=true&hide_title=true&bg_color=ffffff)](https://github.com/forntoh/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=forntoh&layout=compact&hide=other&custom_title=Languages%20I%27ve%20spoken%20in%20the%20past%20week&langs_count=6" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forntoh&layout=compact&hide_border=true&bg_color=ffffff&langs_count=6&hide=scss,css" />
-</a>
+[![Forntoh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=forntoh&layout=compact&hide=other&custom_title=Languages%20I%27ve%20spoken%20in%20the%20past%20week&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forntoh&layout=compact&hide_border=true&bg_color=ffffff&langs_count=6&hide=scss,css)](https://github.com/forntoh/github-readme-stats)
 
 [twitter]: https://twitter.com/forntoh
 [linkedin]: https://linkedin.com/in/forntoh
