@@ -5,14 +5,14 @@
 [<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 [<img src="https://img.shields.io/badge/upwork-6fda44?&style=for-the-badge&logo=upwork&logoColor=white" />][upwork]
 
-## About me
+### About me
 
 - 📱 I love deloping mobile apps, I have learned all I can about Android Dev
 - 👩‍💻 I’m currently doing a lot with NextJS, Strapi & Supabase
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ I also do 3D Modelling 😉
 
-## My GitHub stats
+### My GitHub stats
 
 [![Forntoh's github stats](https://github-readme-stats.vercel.app/api?username=forntoh&count_private=true&show_icons=true&hide_title=true&bg_color=ffffff)](https://github.com/forntoh/github-readme-stats)
 
