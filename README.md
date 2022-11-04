@@ -16,7 +16,6 @@
 
 [![Forntoh's github stats](https://github-readme-stats.vercel.app/api?username=forntoh&count_private=true&show_icons=true&hide_title=true&theme=transparent&border_color=30363d&card_width=420)](https://github.com/forntoh/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forntoh&layout=compact&theme=transparent&langs_count=6&hide=scss&border_color=30363d)](https://github.com/forntoh/github-readme-stats)
-
 [![Forntoh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=forntoh&layout=compact&hide=other&custom_title=Languages%20I%27ve%20spoken%20in%20the%20past%20week&langs_count=6&theme=transparent&border_color=30363d)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/forntoh
