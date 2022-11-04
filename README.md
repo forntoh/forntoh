@@ -8,7 +8,7 @@
 ## About me
 
 - 📱 I love deloping mobile apps, I have learned all I can about Android Dev
-- 👩‍💻 I’m currently learning Flutter and JetPack Compose
+- 👩‍💻 I’m currently doing a lot with NextJS, Strapi & Supabase
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ I also do 3D Modelling 😉
 
