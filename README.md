@@ -3,6 +3,7 @@
 [<img src="https://img.shields.io/badge/forntoh-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img src="https://img.shields.io/badge/forntoh-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img src="https://img.shields.io/badge/upwork-6fda44?&style=for-the-badge&logo=upwork&logoColor=white" />][upwork]
+[![wakatime](https://wakatime.com/badge/user/50fb89a3-5dc8-4ac9-bfce-7c5b8deec5a0.svg?style=for-the-badge)](https://wakatime.com/@50fb89a3-5dc8-4ac9-bfce-7c5b8deec5a0)
 
 ### About me
 
